@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-single-threaded-by-event-loop",
+  "version": "1.0.0",
+  "description": "Nodejs single threaded by event loop",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
